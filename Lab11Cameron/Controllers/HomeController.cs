@@ -10,8 +10,12 @@ namespace Lab11Cameron.Controllers
     {
         public string Index()
         {
-            return "Welcome to student enrollent \n\nTo register as new student, add to your url: \n\n  /Students/NewEntry?Name=''&Major=''&Year=''" +
-                "\n\nTo view all students add this to your URL:\n\n  /Students/ViewStudents?Names=''";
+            return "Welcome to student enrollent " +
+                "\n\nTo REGISTER as a new student:" +
+                "\n\n1. Add this text after localhost:XXXXX" +
+                "\n    /Students/NewEntry?Name= &Major= &Year= " +
+                "\n\n2. Add values for 'Name', 'Major', and 'Year' then press 'Enter'" +
+                "\n\nTo VIEW all students, add this text after localhost:XXXXX \n\n  /Students/ViewStudents?";
         }
 
         public string GradYear(int graduation)

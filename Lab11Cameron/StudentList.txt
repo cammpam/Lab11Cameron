@@ -1,1 +1,21 @@
 ﻿
+
+Name: Cameron 
+Major: Architecture 
+Year: 2019
+
+Name: Donald 
+Major: Physics 
+Year: 2019
+
+Name: Roger  
+Major: Undecided  
+Year: 2029
+
+Name: Cindy  
+Major: Physical Therapy 
+Year: 2017
+
+Name: Rebecca  
+Major: Criminal Justice  
+Year: 2020
